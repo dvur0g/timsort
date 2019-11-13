@@ -1,1 +1,1 @@
-# Timsort algorithm realization whith galloping merge sorting
+# Timsort algorithm realization with galloping merge sorting
